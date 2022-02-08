@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.API", "ToDoList.API\ToDoList.API.csproj", "{91F30261-0031-43CF-8C13-BB475A2E2463}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Models", "ToDoList.Models\ToDoList.Models.csproj", "{7F2DC770-1549-44FD-841E-620F7FA46025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.BL", "ToDoList.BL\ToDoList.BL.csproj", "{94B48A3D-1829-4285-9911-2FA2767CB105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F30261-0031-43CF-8C13-BB475A2E2463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F30261-0031-43CF-8C13-BB475A2E2463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F30261-0031-43CF-8C13-BB475A2E2463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F30261-0031-43CF-8C13-BB475A2E2463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2DC770-1549-44FD-841E-620F7FA46025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2DC770-1549-44FD-841E-620F7FA46025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2DC770-1549-44FD-841E-620F7FA46025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2DC770-1549-44FD-841E-620F7FA46025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B48A3D-1829-4285-9911-2FA2767CB105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B48A3D-1829-4285-9911-2FA2767CB105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B48A3D-1829-4285-9911-2FA2767CB105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B48A3D-1829-4285-9911-2FA2767CB105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2926C7-E086-49DA-91E8-D1E1BAF61CE0}
+	EndGlobalSection
+EndGlobal

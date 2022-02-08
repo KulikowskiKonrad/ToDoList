@@ -1,0 +1,17 @@
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.BL.deps.json
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.BL.runtimeconfig.json
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.BL.runtimeconfig.dev.json
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.BL.dll
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.BL.pdb
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.Models.dll
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\ToDoList.Models.pdb
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.csproj.AssemblyReference.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.AssemblyInfoInputs.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.AssemblyInfo.cs
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.csproj.CoreCompileInputs.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.csproj.CopyComplete
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.dll
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.pdb
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Debug\netcoreapp3.1\ToDoList.BL.genruntimeconfig.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\bin\Debug\netcoreapp3.1\Images\logo.jpg

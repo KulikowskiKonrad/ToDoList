@@ -1,0 +1,5 @@
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Release\netcoreapp3.1\ToDoList.BL.csproj.AssemblyReference.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Release\netcoreapp3.1\ToDoList.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Release\netcoreapp3.1\ToDoList.BL.AssemblyInfoInputs.cache
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Release\netcoreapp3.1\ToDoList.BL.AssemblyInfo.cs
+C:\Users\KTR\Documents\ToDoList\Projects\ToDoList.BL\obj\Release\netcoreapp3.1\ToDoList.BL.csproj.CoreCompileInputs.cache
